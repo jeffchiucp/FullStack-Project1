@@ -4,8 +4,7 @@ I will write **server-side code** to store a list of my favorite movies, includi
 * box art imagery
 * movie trailer URL
 I will then serve this data as a web page allowing visitors to review their movies and watch the trailers.
-![image](m1.png)
-![image2](m2.png)
+
 
 # Why this Project?
 

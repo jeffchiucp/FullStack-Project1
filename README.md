@@ -1,4 +1,6 @@
 # P1-Movie-Trailer-Website
+
+[![Join the chat at https://gitter.im/Jeffchiucp/FullStack-Project1](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Jeffchiucp/FullStack-Project1?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This is project one as the part of full stack web developer nanodegree at [Udacity](https://www.udacity.com/course/nd004).
 I will write **server-side code** to store a list of my favorite movies, including:
 * box art imagery

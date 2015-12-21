@@ -1,16 +1,15 @@
 # P1-Movie-Trailer-Website
 by Jeff Chiu, in fulfillment of Udacity's Full-Stack Web Developer Nanodegree
 
-About
+##About
 
-This is project one as the part of full stack web developer nanodegree at Udacity. I  wite server-side code to store a list of my favorite movies, including:
+This is project One as the part of full stack web developer nanodegree at Udacity. I  wite server-side code to store a list of my favorite movies, including:
 
-box art imagery
+Box art imagery
 movie trailer URL I will then serve this data as a web page allowing visitors to review their movies and watch the trailers.
 How to run To run the script, clone this repository directory and run fresh_tomatoes.py. You can view the page by opening fresh_tomatoes.html.
 
-
-How to run
+##How to run
 To run the script, clone this repository directory and run fresh_tomatoes.py. You can view the page by opening fresh_tomatoes.html.
 
 Steps that I did:
